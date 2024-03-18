@@ -1,0 +1,2 @@
+classes = ['apple', 'book', 'bowtie', 'candle', 'cloud', 'cup', 'door', 'envelope', 'eyeglasses', 'guitar', 'hammer', 'hat',
+           'ice cream', 'leaf', 'lightning', 'pants', 'scissors', 'star', 't-shirt', 'tree']
